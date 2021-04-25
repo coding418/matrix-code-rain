@@ -9,9 +9,10 @@ Procedurally Generated Animation/Screensaver made in Processing
 	* [Short Preview](https://github.com/coding418/matrix-code-rain/blob/main/matrix-code-rain-v0.1-preview.mp4?raw=true)
 	* [Long Preview](https://github.com/coding418/matrix-code-rain/blob/main/matrix-code-rain-v0.1-long.mp4?raw=true)
 
+
 ## Animated GIF Previews (12 fps)
 ### Early Example (restricted character set):
-![Matrix Code Rain v0.1 Preview](/matrix-code-rain-v0.1-preview.gif)
+![Matrix Code Rain v0.1 Preview](./img/matrix-code-rain-v0.1-preview.gif)
 
 ### Improved Version (full character set):
-![Matrix Code Rain v0.2 Preview](/matrix-code-rain-v0.2-preview.gif)
+![Matrix Code Rain v0.2 Preview](./img/matrix-code-rain-v0.2-preview.gif)
