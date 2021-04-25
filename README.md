@@ -10,16 +10,13 @@ The goal is to create an animation/screensaver with procedural generation that l
 ### Latest Version (downpour mode):
 ![Matrix Code Rain v0.2 Preview](./img/matrix-code-rain-v0.2-downpour.gif)
 
-### First Version (restricted character set):
-![Matrix Code Rain v0.1 Preview](./img/matrix-code-rain-v0.1-preview.gif)
-
 
 ## Video Previews (24 fps)
 * Latest Version (full character set, improved color)
 	* [Short Preview](https://github.com/coding418/matrix-code-rain/blob/main/matrix-code-rain-v0.2-preview.mp4?raw=true)
 	* [Long Preview](https://github.com/coding418/matrix-code-rain/blob/main/matrix-code-rain-v0.2-long.mp4?raw=true)
 
-* First Version (restricted character set)
+* Early Version (restricted character set)
 	* [Short Preview](https://github.com/coding418/matrix-code-rain/blob/main/matrix-code-rain-v0.1-preview.mp4?raw=true)
 	* [Long Preview](https://github.com/coding418/matrix-code-rain/blob/main/matrix-code-rain-v0.1-long.mp4?raw=true)
 
