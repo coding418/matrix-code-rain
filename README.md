@@ -8,7 +8,7 @@ The goal is to create an animation/screensaver with procedural generation that l
 ![Matrix Code Rain v0.2 Preview](./img/matrix-code-rain-v0.2-preview.gif)
 
 ### Latest Version (downpour mode):
-![Matrix Code Rain v0.2 Preview](./img/matrix-code-rain-v0.2-preview.gif)
+![Matrix Code Rain v0.2 Preview](./img/matrix-code-rain-v0.2-downpour.gif)
 
 ### First Version (restricted character set):
 ![Matrix Code Rain v0.1 Preview](./img/matrix-code-rain-v0.1-preview.gif)
