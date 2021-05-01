@@ -12,7 +12,7 @@ The goal is to create an animation/screensaver with procedural generation that l
 ![The Matrix Title Sequence](./img/title-sequence.gif)
 
 
-* [More Videos](https://github.com/coding418/matrix-code-rain/blob/main/index.html)
+* [More Videos](https://github.com/coding418/matrix-code-rain/blob/main/index.html?raw=true)
 
 ## Video Previews (24 fps)
 * Latest Version (full character set, improved color)
