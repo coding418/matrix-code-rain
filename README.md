@@ -1,7 +1,7 @@
 # Matrix Code Rain
 Animated screensaver made in Processing.
 
-The goal is to create an animation/screensaver with procedural generation that looks as similar as possible to the "raining" green code in the title sequence of The Matrix (allowing for some creative license!).
+The goal is to create an animation/screensaver with procedural generation that looks as similar as possible to the "raining" green code in the title sequence of *The Matrix* (allowing for some creative license!).
 
 ## Animated GIF Previews (12 fps)
 
@@ -11,6 +11,8 @@ The goal is to create an animation/screensaver with procedural generation that l
 ### Actual Title Sequence:
 ![The Matrix Title Sequence](./img/title-sequence.gif)
 
+
+* [More Videos](https://github.com/coding418/matrix-code-rain/blob/main/index.html)
 
 ## Video Previews (24 fps)
 * Latest Version (full character set, improved color)
