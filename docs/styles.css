@@ -1,0 +1,62 @@
+
+html, body{
+	margin: 0;
+	padding: 0;
+}
+
+#header, #footer, body, html {
+	background-color: rgb(0, 6, 0);
+	padding:0px;
+	text-align:center;
+}
+
+#main {
+	background-color: rgb(0, 3, 0);
+}      
+
+h1, h2, h3 {
+	text-align: center;
+	color: rgb(0, 220, 0);
+	font-family: monospace;
+}    
+
+video {
+	margin: auto;
+	display: block;
+	width: 100%;
+	max-width: 1080px;
+}
+
+h1, h2 {
+	margin-top: 22px;
+	font-family: 'Zilla Slab', monospace;
+	text-transform: uppercase;
+	letter-spacing: 0.5em;
+	color: #aeffd3;
+}
+
+.glow {
+	color: #aeffd3;
+	text-align: center;
+	-webkit-animation: glow 1.5s ease-in-out infinite alternate;
+	-moz-animation: glow 1.5s ease-in-out infinite alternate;
+	animation: glow 1.5s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes glow {
+	from {
+	text-shadow: 
+		0 0 6px #8af0bb, 
+		0 0 12px #63c594, 
+		0 0 18px #5ac08b, 
+		0 0 24px #3c865d;
+	}
+
+	to {
+	text-shadow: 
+		0 0 12px #63c594, 
+		0 0 18px #5ac08b, 
+		0 0 24px #3c865d, 
+		0 0 30px #003915;
+	}
+}
