@@ -16,12 +16,16 @@
 
 	<div id="main">
 		<video id="vid" autoplay="true" muted="muted" loop="loop" codecs="h264">
-			<source src="https://github.com/coding418/matrix-code-rain/blob/main/vid/matrix-code-rain-v0.3-downpour-mode.mp4?raw=true" type="video/mp4">
+			<source id="vidsrc" src="https://github.com/coding418/matrix-code-rain/blob/main/vid/matrix-code-rain-v0.3-downpour-mode.mp4?raw=true" type="video/mp4">
 		</video>
 	</div>
 
 	<div id="footer">
 		<h2 class="glow">Generative Animation</h2>
+		<button onclick="change_vid(0)">Downpour Mode</button>
+		<button onclick="change_vid(1)">Operator Mode</button>
+		<button onclick="change_vid(2)">Pixel Mode</button>
+		<br>
 		<a class="glow" href="https://github.com/coding418/matrix-code-rain">Return to Repo</a>
 	</div>
 
