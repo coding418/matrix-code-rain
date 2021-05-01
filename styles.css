@@ -7,7 +7,7 @@ html, body{
 #header, #footer, body, html {
 	background-color: rgb(0, 6, 0);
 	padding:0px;
-	
+	text-align:center;
 }
 
 #main {
