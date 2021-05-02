@@ -21,6 +21,12 @@ buttons[active].classList.add("active");
 function change_vid(idx){
 	vsrc = document.getElementById("vidsrc");
 	vsrc.src = "https://github.com/coding418/matrix-code-rain/blob/main/vid/" + vids[idx] + "?raw=true";
+
+
+	buttons[active].classList.remove("active");
+	active = idx;
+	buttons[active].classList.add("active");
+
 	document.getElementById("vid").load();
 	document.getElementById("vid").play();
 }
