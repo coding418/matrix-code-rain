@@ -70,11 +70,11 @@ a {
 	text-decoration: none;
 	transition-duration: 1s;
 	margin-bottom: 22px;
-	border-bottom: 1px solid transparent;
+	border-bottom: 2px solid transparent;
 }
 
 a:hover {
-	border-color: #aeffd3;
+	border-bottom: 2px solid #aeffd3;
 }
 
 .glow {
