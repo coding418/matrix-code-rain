@@ -50,17 +50,17 @@ button {
 	cursor: pointer;
 	border-radius: 8px;
 	border: 2px solid #4CAF50;
-  }
-  
-  button:hover {
-	background-color: #4CAF50; 
-	color: black; 
-  }
+}
 
-  .active {
+button:hover {
 	background-color: #4CAF50; 
 	color: black; 
-  }
+}
+
+.active {
+	background-color: #4CAF50; 
+	color: black; 
+}
 
 .glow {
 	color: #aeffd3;
