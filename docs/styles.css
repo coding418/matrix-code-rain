@@ -68,6 +68,7 @@ a {
 	letter-spacing: 0.5em;
 	text-decoration: none;
 	transition-duration: 0.4s;
+	margin-bottom: 22px;
 }
 
 a:hover {
