@@ -62,8 +62,10 @@ button:hover {
 	color: black; 
 }
 
-a {
-	font-family: monospace;
+a {	
+	font-family: 'Zilla Slab', monospace;
+	text-transform: uppercase;
+	letter-spacing: 0.5em;
 	text-decoration: none;
 	transition-duration: 0.4s;
 }
