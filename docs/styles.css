@@ -68,7 +68,7 @@ a {
 	text-transform: uppercase;
 	letter-spacing: 0.1em;
 	text-decoration: none;
-	transition-duration: 0.4s;
+	transition-duration: 1s;
 	margin-bottom: 22px;
 	border-bottom: 1px solid transparent;
 }
