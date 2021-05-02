@@ -2,8 +2,8 @@ vids = [
 	"matrix-code-rain-v0.3-title-effect.mp4",
 	"matrix-code-rain-v0.3-downpour-mode.mp4",
 	"matrix-code-rain-v0.3-operator-mode.mp4",
-	"matrix-code-rain-v0.3-webcam-mode.mp4",
 	"matrix-code-rain-v0.3-pixel-mode.mp4",
+	"matrix-code-rain-v0.3-webcam-mode.mp4",
 ]
 
 titles = [
