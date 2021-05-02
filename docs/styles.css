@@ -57,6 +57,11 @@ button {
 	color: black; 
   }
 
+  .active {
+	background-color: #4CAF50; 
+	color: black; 
+  }
+
 .glow {
 	color: #aeffd3;
 	text-align: center;

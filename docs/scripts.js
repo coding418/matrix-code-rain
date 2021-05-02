@@ -12,6 +12,12 @@ titles = [
 	"Webcam/Pixel Mode v0.3",
 ]
 
+active = 1;
+
+buttons = document.getElementsByTagName("button");
+
+buttons[active].classList.add("active");
+
 function change_vid(idx){
 	vsrc = document.getElementById("vidsrc");
 	vsrc.src = "https://github.com/coding418/matrix-code-rain/blob/main/vid/" + vids[idx] + "?raw=true";
