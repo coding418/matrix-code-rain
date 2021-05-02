@@ -70,10 +70,12 @@ a {
 	text-decoration: none;
 	transition-duration: 0.4s;
 	margin-bottom: 22px;
+	border-bottom: 1px solid transparent;
 }
 
 a:hover {
 	text-decoration: underline;
+	border-color: #aeffd3;
 }
 
 .glow {
