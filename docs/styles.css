@@ -50,7 +50,7 @@ button {
 	cursor: pointer;
 	border-radius: 8px;
 	border: 2px solid #4CAF50;
-	font-family: monospace;
+	font-family: 'Source Code Pro', monospace;
 }
 
 button:hover {
