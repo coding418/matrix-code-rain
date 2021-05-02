@@ -25,6 +25,7 @@ video {
 	display: block;
 	width: 100%;
 	max-width: 1080px;
+	max-height: 800px;
 }
 
 h1, h2 {
